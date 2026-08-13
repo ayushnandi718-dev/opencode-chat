@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+dev.log
+*.local
+.env
+.env.*
+
+# Assistant memory — may contain personal session notes
+AGENTS.md
+.opencode/memory-log.json
+.opencode/memory-log*.json
