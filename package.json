@@ -35,10 +35,10 @@
       "output": "release"
     },
     "win": {
-      "target": "portable"
+      "target": "nsis"
     },
-    "portable": {
-      "artifactName": "OpenCode-Chat-${version}.exe"
+    "nsis": {
+      "artifactName": "OpenCode-Chat-Setup-${version}.exe"
     }
   }
 }
